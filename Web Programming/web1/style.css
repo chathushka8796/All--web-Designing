@@ -1,0 +1,26 @@
+.x1{
+    color: white;
+background-color: rgb(17, 122, 208);
+width: 200px;
+height: 30px;
+border: none;
+border-radius: 8px;
+font-weight: bold;
+cursor: pointer;
+
+
+
+
+
+
+}
+.x2{color: white;
+background-color: rgb(11, 206, 11)
+width: 400px;
+height: 40px;
+border: none;
+border-radius: 5px;
+font-weight: bold;
+cursor: pointer;
+
+}

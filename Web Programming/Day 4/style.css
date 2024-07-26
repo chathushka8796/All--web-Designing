@@ -1,0 +1,62 @@
+.a1{
+    text-decoration: none;
+    
+}
+.a1:hover{
+text-decoration: underline;
+color: red;
+
+}
+.a1:active{
+    color: greenyellow;
+}
+.a1:visited{
+    color: lightblue;
+}
+.d1{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-top: 100px;
+}
+.d2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-left: 100px;
+}
+.d3{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-left: 200px;
+}
+.d4{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-top: -300px;
+    margin-left: 100px;
+    position: absolute;
+}
+.d5{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-top: -200px;
+    
+}
+.d6{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-top: -200px;
+    margin-left: 200px;
+}
+.d7{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-top: 0px;
+    margin-left: 200px;
+}

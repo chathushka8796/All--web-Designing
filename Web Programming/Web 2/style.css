@@ -1,0 +1,25 @@
+.b1{
+    background-color: red;
+    width: 500px;
+    height: 45px;
+    color: white;
+    border: none;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+@media (min-width:800px) {
+
+    .b1{background-color: blue;
+    }
+}
+@media (min-width:1000px) {
+
+    .b1{background-color: gold;
+    }
+}
+@media (min-width:1500px) {
+
+    .b1{background-color: green;
+    }
+}

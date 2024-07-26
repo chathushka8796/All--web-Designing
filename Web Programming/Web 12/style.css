@@ -1,0 +1,25 @@
+.d1{
+    background-image: linear-gradient(45deg,red,orange,yellow,green,blue,violet);
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.d2{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+
+}
+.d3{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.d4{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}

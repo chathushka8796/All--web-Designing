@@ -1,0 +1,49 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.div2{
+    width: 320px;
+    height: 282px;
+    margin-left: 830px;
+    margin-top: 190px;
+    border-radius: 6px;
+    box-shadow: 6px 6px 6px 6px rgb(218, 221, 223);
+}
+
+
+.t1{
+width: 15px;
+height: 14px;
+border-width: 1px;
+border-style: solid;
+border-color: rgb(220, 220, 220);
+border-radius: 6px;
+outline: none;
+
+}
+
+
+.hr1{
+    margin-top: 42px;
+    width: 90%;
+}
